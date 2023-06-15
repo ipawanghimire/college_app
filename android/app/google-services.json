@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "773407841272",
+    "project_id": "acem-a5670",
+    "storage_bucket": "acem-a5670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773407841272:android:511f32e5b606217466140d",
+        "android_client_info": {
+          "package_name": "com.acem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773407841272-40e82ko6jctk64cj06vd950aajv1mubs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1elM3IBZRhclObfRvfJmpOfOFMAnP69o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773407841272-40e82ko6jctk64cj06vd950aajv1mubs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773407841272:android:b8ea9cca742c750f66140d",
+        "android_client_info": {
+          "package_name": "com.example.acem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773407841272-40e82ko6jctk64cj06vd950aajv1mubs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1elM3IBZRhclObfRvfJmpOfOFMAnP69o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773407841272-40e82ko6jctk64cj06vd950aajv1mubs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
