@@ -2,5 +2,5 @@ To use this app you will need an id and pw
 
 USE THIS ID-PW:
 
-ajay.075bct005@acem.edu.np
-ACE075BCT005
+id:pawan.075bct037@acem.edu.np
+pw:ACE075BCT037
